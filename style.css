@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.stop-watch {
+    display:flex;
+    justify-content: center;
+    margin-top: 5rem;
+    font-size: 5rem;
+    color: white;
+}
+
+.btn {
+    text-align: center;
+}
+
+.btn button {
+    width: 6rem;
+    height: 2rem;
+    background-color: red;
+    color: white;
+    outline: none;
+    border: none;
+}
